@@ -1,0 +1,8 @@
+name 'puppetlabs-kvm'
+version '0.0.1'
+source 'git://github.com/puppetlabs/puppetlabs-kvm.git'
+author 'puppetlabs'
+license 'ASL 2.0'
+summary 'KVM Module'
+description 'Manages installation and configuration of KVM'
+project_page 'https://github.com/puppetlabs/puppetlabs-kvm'
